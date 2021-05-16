@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **C++, Python, Java, C and SQL langauges**
 
 - 📫 How to reach me: <a href="https://linkedin.com/in/asif-rot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392719-a1e2ee00-b643-11eb-8f57-aed31feded47.png" alt="asif-rot" height="40" width="40" /></a>
-<a href="malito:asif.rot12@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="asif-rot" height="42" width="42" /></a>
+<a href="mailto:asif.rot12@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="asif-rot" height="42" width="42" /></a>
 </p>
 
 - ⚡ Fun fact - **Hunting unicorns is legal in Michigan.**
@@ -15,6 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/he/3/39/Microsoft_SQL_server_logo.png" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-rot&show_icons=true&theme=dark&locale=en&layout=compact" alt="asif-rot" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-rot&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="asif-rot" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=asif-rot&show_icons=true&theme=dark&locale=en" alt="asif-rot" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif-rot&show_icons=true&theme=material-palenight&locale=en" alt="asif-rot" /></p>
