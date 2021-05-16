@@ -1,5 +1,5 @@
 <img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/74010095/118391998-d785d800-b63f-11eb-914e-b6098c5d2a0c.png">
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">CS student at Ariel University | NOC Engineer</h3>
 
@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-rot&show_icons=true&theme=dark&locale=en&layout=compact" alt="asif-rot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif-rot&show_icons=true&theme=dark&locale=en" alt="asif-rot" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asif-rot&show_icons=true&theme=dark&locale=en" alt="asif-rot" /></p>
