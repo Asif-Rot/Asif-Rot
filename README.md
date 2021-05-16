@@ -17,4 +17,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-rot&show_icons=true&theme=material-palenight&locale=en&layout=compact" alt="asif-rot"  width="400" height="500" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=asif-rot&show_icons=true&theme=material-palenight&locale=en" alt="asif-rot" width="482" height="500"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=asif-rot&show_icons=true&theme=material-palenight&locale=en" alt="asif-rot" width="482" height="500"/>
