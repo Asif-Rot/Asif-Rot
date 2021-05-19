@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">CS student at Ariel University | NOC Engineer</h3>
 
-- 🌱 I’m currently learning **C++, Python, Java, C and SQL langauges**
+- 🌱 I’m currently learning **C++, Python, Java, C and SQL languages**
 
 - 📫 How to reach me: <a href="https://linkedin.com/in/asif-rot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392719-a1e2ee00-b643-11eb-8f57-aed31feded47.png" alt="asif-rot" height="40" width="40" /></a>
 <a href="mailto:asif.rot12@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="asif-rot" height="42" width="42" /></a>
